@@ -1,5 +1,7 @@
 # Dynamic Discounting Simulator
 
+**[View the report →](https://wattwood1.github.io/dynamic-discounting-simulator/Dynamic_Discounting_Simulator.html)**
+
 A supply-chain finance model that optimises a buyer's early-payment programme across a synthetic supplier portfolio, stress-tests four economic scenarios, and simulates 26 weeks of rolling weekly auctions with capital recycling.
 
 ---
